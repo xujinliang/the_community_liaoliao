@@ -2,7 +2,6 @@
 
 #### 项目介绍
 这是一个基于Bootstrap和其他优秀开源插件搭建的开源的PHP轻论坛  
-官网地址：http://www.youyax.com/liaoliao/  
 ![赞赏](https://gitee.com/uploads/images/2018/0502/101758_c42cb831_3785.png "赞赏")
 
 #### 软件架构
